@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/s
 
 For other tools, the newest IPA is always here:
 
-<a href="https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-latest/PlaisioCode.ipa"><img src="https://img.shields.io/badge/Download-iPhone_IPA-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download the newest iPhone IPA"></a>
+<a href="https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-latest/PlaisioCode.ipa"><img src="https://img.shields.io/badge/Download-iPhone_IPA-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download the newest iPhone IPA"></a>
 
 ## Android
 
