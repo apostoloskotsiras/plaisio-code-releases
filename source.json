@@ -1,0 +1,44 @@
+{
+  "name": "Plaisio Code",
+  "identifier": "com.apostoloskotsiras.plaisiocode.source",
+  "subtitle": "The Plaisio Code iPhone app",
+  "description": "Add this source to install Plaisio Code and get its updates.",
+  "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
+  "website": "https://github.com/apostoloskotsiras/plaisio-code-releases",
+  "tintColor": "#8C66FF",
+  "apps": [
+    {
+      "name": "Plaisio Code",
+      "bundleIdentifier": "com.apostoloskotsiras.PlaisioCode",
+      "developerName": "apostoloskotsiras",
+      "subtitle": "Plaisio product lookup",
+      "localizedDescription": "Scan a barcode or search to find the Plaisio product code, price and store stock.",
+      "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
+      "tintColor": "#8C66FF",
+      "category": "utilities",
+      "version": "1",
+      "versionDate": "2026-09-28T16:51:04Z",
+      "versionDescription": "Version 1",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-1/PlaisioCode.ipa",
+      "size": 7055977,
+      "versions": [
+        {
+          "version": "1",
+          "buildVersion": "1",
+          "date": "2026-09-28T16:51:04Z",
+          "localizedDescription": "Version 1",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-1/PlaisioCode.ipa",
+          "size": 7055977,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan EAN barcodes to find the Plaisio product code."
+        }
+      }
+    }
+  ],
+  "news": []
+}
