@@ -16,19 +16,19 @@
       "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
       "tintColor": "#8C66FF",
       "category": "utilities",
-      "version": "3",
-      "versionDate": "2026-09-28T19:45:20Z",
-      "versionDescription": "Version 3",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-3/PlaisioCode.ipa",
-      "size": 7274530,
+      "version": "4",
+      "versionDate": "2026-09-28T21:32:42Z",
+      "versionDescription": "Version 4",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-4/PlaisioCode.ipa",
+      "size": 7362296,
       "versions": [
         {
-          "version": "3",
-          "buildVersion": "3",
-          "date": "2026-09-28T19:45:20Z",
-          "localizedDescription": "Version 3",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-3/PlaisioCode.ipa",
-          "size": 7274530,
+          "version": "4",
+          "buildVersion": "4",
+          "date": "2026-09-28T21:32:42Z",
+          "localizedDescription": "Version 4",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-4/PlaisioCode.ipa",
+          "size": 7362296,
           "minOSVersion": "26.0"
         }
       ],
@@ -36,8 +36,9 @@
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "Scan EAN barcodes to find the Plaisio product code.",
+          "NSSpeechRecognitionUsageDescription": "Turns what you say into text to find it on the Chania shelf.",
           "NSMicrophoneUsageDescription": "Hold the microphone to say what a customer is looking for.",
-          "NSSpeechRecognitionUsageDescription": "Turns what you say into text to find it on the Chania shelf."
+          "NFCReaderUsageDescription": "Reads a shelf label's tag to set what it shows."
         }
       }
     }
