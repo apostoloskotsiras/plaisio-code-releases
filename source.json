@@ -16,18 +16,18 @@
       "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
       "tintColor": "#8C66FF",
       "category": "utilities",
-      "version": "7",
-      "versionDate": "2026-09-28T23:25:56Z",
-      "versionDescription": "Version 7",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-7/PlaisioCode.ipa",
+      "version": "8",
+      "versionDate": "2026-09-29T08:23:56Z",
+      "versionDescription": "Version 8",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-8/PlaisioCode.ipa",
       "size": 7335812,
       "versions": [
         {
-          "version": "7",
-          "buildVersion": "7",
-          "date": "2026-09-28T23:25:56Z",
-          "localizedDescription": "Version 7",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-7/PlaisioCode.ipa",
+          "version": "8",
+          "buildVersion": "8",
+          "date": "2026-09-29T08:23:56Z",
+          "localizedDescription": "Version 8",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-8/PlaisioCode.ipa",
           "size": 7335812,
           "minOSVersion": "26.0"
         }
