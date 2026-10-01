@@ -5,7 +5,7 @@
   "description": "Add this source to install Plaisio Code and get its updates.",
   "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
   "website": "https://github.com/apostoloskotsiras/plaisio-code-releases",
-  "tintColor": "#8C66FF",
+  "tintColor": "#E2382A",
   "apps": [
     {
       "name": "Plaisio Code",
@@ -14,21 +14,21 @@
       "subtitle": "Plaisio product lookup",
       "localizedDescription": "Scan a barcode or search to find the Plaisio product code, price and store stock.",
       "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
-      "tintColor": "#8C66FF",
+      "tintColor": "#E2382A",
       "category": "utilities",
-      "version": "8.14.0",
-      "versionDate": "2026-10-01T07:41:27Z",
-      "versionDescription": "Pause in the pocket: the camera stops when the phone goes in a pocket or lies face down, and starts again when you take it out. Turn it off in Settings → Battery.",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-34/PlaisioCode.ipa",
-      "size": 6781626,
+      "version": "9.0.0",
+      "versionDate": "2026-10-01T09:57:53Z",
+      "versionDescription": "New look, light or dark by the phone's setting. A floating bar holds Scan, Finder, History and More; its round button turns the bar into the search field. The Finder is now a tab and the shelf map is under More. When a barcode is read, the scanner's corners move onto it and the picture around it blurs. On the shelf map, hold a box and then move it to swap two places, so the page scrolls normally. Grey text is darker and easier to read everywhere.",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-35/PlaisioCode.ipa",
+      "size": 6870874,
       "versions": [
         {
-          "version": "8.14.0",
-          "buildVersion": "34",
-          "date": "2026-10-01T07:41:27Z",
-          "localizedDescription": "Pause in the pocket: the camera stops when the phone goes in a pocket or lies face down, and starts again when you take it out. Turn it off in Settings → Battery.",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-34/PlaisioCode.ipa",
-          "size": 6781626,
+          "version": "9.0.0",
+          "buildVersion": "35",
+          "date": "2026-10-01T09:57:53Z",
+          "localizedDescription": "New look, light or dark by the phone's setting. A floating bar holds Scan, Finder, History and More; its round button turns the bar into the search field. The Finder is now a tab and the shelf map is under More. When a barcode is read, the scanner's corners move onto it and the picture around it blurs. On the shelf map, hold a box and then move it to swap two places, so the page scrolls normally. Grey text is darker and easier to read everywhere.",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-35/PlaisioCode.ipa",
+          "size": 6870874,
           "minOSVersion": "26.0"
         }
       ],
