@@ -16,19 +16,19 @@
       "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
       "tintColor": "#E2382A",
       "category": "utilities",
-      "version": "10.24.2",
-      "versionDate": "2026-10-25T12:19:53Z",
+      "version": "10.25.1",
+      "versionDate": "2026-10-25T12:22:06Z",
       "versionDescription": "Today and the Finder no longer stretch and spring back when you scroll past their top or bottom.",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-102/PlaisioCode.ipa",
-      "size": 7386976,
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-103/PlaisioCode.ipa",
+      "size": 7461911,
       "versions": [
         {
-          "version": "10.24.2",
-          "buildVersion": "102",
-          "date": "2026-10-25T12:19:53Z",
+          "version": "10.25.1",
+          "buildVersion": "103",
+          "date": "2026-10-25T12:22:06Z",
           "localizedDescription": "Today and the Finder no longer stretch and spring back when you scroll past their top or bottom.",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-102/PlaisioCode.ipa",
-          "size": 7386976,
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-103/PlaisioCode.ipa",
+          "size": 7461911,
           "minOSVersion": "26.0"
         }
       ],
