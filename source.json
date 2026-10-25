@@ -16,19 +16,19 @@
       "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/plaisio-code-releases/main/icon.png",
       "tintColor": "#E2382A",
       "category": "utilities",
-      "version": "10.25.1",
-      "versionDate": "2026-10-25T12:22:06Z",
-      "versionDescription": "Today and the Finder no longer stretch and spring back when you scroll past their top or bottom.",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-103/PlaisioCode.ipa",
-      "size": 7461911,
+      "version": "10.26.0",
+      "versionDate": "2026-10-25T12:25:14Z",
+      "versionDescription": "Your shifts can go in your phone's calendar: on the Shifts page, turn on \"Add my shifts to my calendar\". A Plaisio shifts calendar keeps itself up to date each time your shifts are read, with the store's address on each shift. Turn it off to remove it.",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-104/PlaisioCode.ipa",
+      "size": 7473030,
       "versions": [
         {
-          "version": "10.25.1",
-          "buildVersion": "103",
-          "date": "2026-10-25T12:22:06Z",
-          "localizedDescription": "Today and the Finder no longer stretch and spring back when you scroll past their top or bottom.",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-103/PlaisioCode.ipa",
-          "size": 7461911,
+          "version": "10.26.0",
+          "buildVersion": "104",
+          "date": "2026-10-25T12:25:14Z",
+          "localizedDescription": "Your shifts can go in your phone's calendar: on the Shifts page, turn on \"Add my shifts to my calendar\". A Plaisio shifts calendar keeps itself up to date each time your shifts are read, with the store's address on each shift. Turn it off to remove it.",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-104/PlaisioCode.ipa",
+          "size": 7473030,
           "minOSVersion": "26.0"
         }
       ],
@@ -36,6 +36,7 @@
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "Scan EAN barcodes to find the Plaisio product code.",
+          "NSCalendarsFullAccessUsageDescription": "Adds your shifts to a Plaisio shifts calendar and keeps it up to date.",
           "NSSpeechRecognitionUsageDescription": "Turns what you say into text to find it on the Chania shelf.",
           "NSMicrophoneUsageDescription": "Hold the microphone to say what a customer is looking for.",
           "NFCReaderUsageDescription": "Reads a shelf label's tag to set what it shows."
