@@ -17,18 +17,18 @@
       "tintColor": "#E2382A",
       "category": "utilities",
       "version": "10.38.0",
-      "versionDate": "2026-10-26T19:40:09Z",
-      "versionDescription": "Today: each customer you help is tracked. Products you open in Customer mode go in their list; End customer asks what they bought (tap it, then Sold) or Left without buying. Today's customers shows each one with what they looked at and bought.",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-124/PlaisioCode.ipa",
-      "size": 7694152,
+      "versionDate": "2026-10-26T20:02:12Z",
+      "versionDescription": "Προσφορές: στη σελίδα του προϊόντος μεγάλη κάρτα με τις προσφορές του plaisio.gr για τον πελάτη (σύρε για τις επόμενες· «Χωρίς φορτιστή στο κουτί» ανοίγει τα Αξεσουάρ), «Φθηνότερο κομμάτι» (demo στα Χανιά ή στο Stockhouse) και η χαμηλότερη τιμή του. Στο Σήμερα «Προσφορές στο ράφι μας»: οι σελίδες προσφορών του site με όσα έχει το ράφι των Χανίων και πότε λήγουν, και Clearance, Νέα, Top τιμή.",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-125/PlaisioCode.ipa",
+      "size": 7773145,
       "versions": [
         {
           "version": "10.38.0",
-          "buildVersion": "124",
-          "date": "2026-10-26T19:40:09Z",
-          "localizedDescription": "Today: each customer you help is tracked. Products you open in Customer mode go in their list; End customer asks what they bought (tap it, then Sold) or Left without buying. Today's customers shows each one with what they looked at and bought.",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-124/PlaisioCode.ipa",
-          "size": 7694152,
+          "buildVersion": "125",
+          "date": "2026-10-26T20:02:12Z",
+          "localizedDescription": "Προσφορές: στη σελίδα του προϊόντος μεγάλη κάρτα με τις προσφορές του plaisio.gr για τον πελάτη (σύρε για τις επόμενες· «Χωρίς φορτιστή στο κουτί» ανοίγει τα Αξεσουάρ), «Φθηνότερο κομμάτι» (demo στα Χανιά ή στο Stockhouse) και η χαμηλότερη τιμή του. Στο Σήμερα «Προσφορές στο ράφι μας»: οι σελίδες προσφορών του site με όσα έχει το ράφι των Χανίων και πότε λήγουν, και Clearance, Νέα, Top τιμή.",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-125/PlaisioCode.ipa",
+          "size": 7773145,
           "minOSVersion": "26.0"
         }
       ],
