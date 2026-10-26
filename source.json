@@ -17,18 +17,18 @@
       "tintColor": "#E2382A",
       "category": "utilities",
       "version": "10.35.0",
-      "versionDate": "2026-10-26T18:36:46Z",
-      "versionDescription": "More is now Settings: only VLink, your account, language and the pocket pause. The tools that were there (stock count, demo list, shelf check, shelf map, price changes) are on Today. Remembered barcodes and AI costs are gone from it; barcodes are shared between phones on their own.",
-      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-122/PlaisioCode.ipa",
-      "size": 7592490,
+      "versionDate": "2026-10-26T18:39:39Z",
+      "versionDescription": "Βοηθός: ξανά με ερωτήσεις, μία τη φορά. Πρώτα «Πότε το θέλει;»: τώρα από το ράφι ή μπορεί να περιμένει (όλο το online, με τα του ραφιού πρώτα). Πάνω φαίνεται μεγάλο πόσα ταιριάζουν και μερικές φωτογραφίες· κάθε απάντηση δείχνει πόσα αφήνει. Παράλειψη ή «Δείτε» όποτε θέλετε.",
+      "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-123/PlaisioCode.ipa",
+      "size": 7657799,
       "versions": [
         {
           "version": "10.35.0",
-          "buildVersion": "122",
-          "date": "2026-10-26T18:36:46Z",
-          "localizedDescription": "More is now Settings: only VLink, your account, language and the pocket pause. The tools that were there (stock count, demo list, shelf check, shelf map, price changes) are on Today. Remembered barcodes and AI costs are gone from it; barcodes are shared between phones on their own.",
-          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-122/PlaisioCode.ipa",
-          "size": 7592490,
+          "buildVersion": "123",
+          "date": "2026-10-26T18:39:39Z",
+          "localizedDescription": "Βοηθός: ξανά με ερωτήσεις, μία τη φορά. Πρώτα «Πότε το θέλει;»: τώρα από το ράφι ή μπορεί να περιμένει (όλο το online, με τα του ραφιού πρώτα). Πάνω φαίνεται μεγάλο πόσα ταιριάζουν και μερικές φωτογραφίες· κάθε απάντηση δείχνει πόσα αφήνει. Παράλειψη ή «Δείτε» όποτε θέλετε.",
+          "downloadURL": "https://github.com/apostoloskotsiras/plaisio-code-releases/releases/download/ios-123/PlaisioCode.ipa",
+          "size": 7657799,
           "minOSVersion": "26.0"
         }
       ],
